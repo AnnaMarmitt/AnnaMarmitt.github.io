@@ -1,0 +1,28 @@
+.header {
+  background-color: #011915;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-content: center;
+  margin-bottom: 80px;
+  max-width: 1240;
+}
+
+.header-menu {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.header-menu li a {
+  text-decoration: none;
+  color: whitesmoke;
+  margin: 10px;
+  padding: 10px 20px;
+}
+
+.logo {
+  display: block;
+  padding: 10px 20px;
+  max-width: 100px;
+}

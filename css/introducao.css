@@ -1,0 +1,44 @@
+.introducao {
+  background-color: #011915;
+  display: grid;
+  height: 320px;
+  width: 640px;
+  margin: 0 auto;
+  position: relative;
+}
+
+h1,
+h2 {
+  line-height: 1.4;
+  color: whitesmoke;
+  font-family: cinzel;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2.2rem;
+  line-height: 1;
+}
+
+.foto {
+  position: absolute;
+  left: -120px;
+  top: -40px;
+}
+
+div img {
+  max-height: 90%;
+  max-width: 90%;
+}
+
+.corzinha {
+  font-style: normal;
+  color: #f57730;
+}
+
+h1,
+h2 {
+  margin-left: 140px;
+}

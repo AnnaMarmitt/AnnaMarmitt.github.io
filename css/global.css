@@ -1,0 +1,16 @@
+body {
+  margin: 0px;
+  font-family: roboto;
+  font-size: 1.1rem;
+  font-weight: 300;
+}
+
+footer {
+  display: flex;
+  gap: 180px;
+  padding: 40px;
+  margin: 0 auto;
+  justify-content: center;
+  color: #011915;
+  line-height: 2rem;
+}

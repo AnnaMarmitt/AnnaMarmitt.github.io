@@ -1,0 +1,9 @@
+.info p {
+  color: whitesmoke;
+  background-color: #d65005;
+  font-size: 1.1rem;
+  padding: 40px 80px;
+  margin: 100px 120px;
+  line-height: 30px;
+  font-weight: 300;
+}

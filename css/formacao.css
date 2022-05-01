@@ -1,0 +1,49 @@
+.formacao {
+  display: flex;
+  gap: 120px;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  background-color: #011915;
+  position: relative;
+}
+
+.formacao img {
+  display: flex;
+  position: absolute;
+  top: -40px;
+}
+
+.formacao-titulo {
+  padding: 40px;
+  font-family: cinzel;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 4.5rem;
+  color: #ac4409;
+}
+
+.faculdades {
+  display: block;
+  background-color: #021512;
+  width: 120x;
+  height: 80x;
+  border: 1px solid #e75e11;
+  box-sizing: border-box;
+  padding: 20px 40px;
+}
+
+.faculdades li {
+  line-height: 2rem;
+}
+
+.formacao ul {
+  list-style: none;
+  color: whitesmoke;
+}
+
+.formacao-listas {
+  display: flex;
+  flex-flow: column;
+  margin: 0 auto;
+  padding: 40px;
+}

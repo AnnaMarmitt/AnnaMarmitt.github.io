@@ -1,0 +1,45 @@
+.experiencia {
+  display: flex;
+  margin: 100px 220px;
+  padding: 10px 20 px;
+  gap: 80px;
+  flex-wrap: wrap;
+  flex-flow: row;
+  color: #011915;
+}
+
+.experiencia li {
+  text-decoration: none;
+  list-style: none;
+  padding: 10px 20px;
+  font-size: 1, 25rem;
+}
+
+.experiencia {
+  position: relative;
+}
+
+.computador {
+  position: absolute;
+}
+
+.pincel {
+  position: absolute;
+  left: -180px;
+}
+
+.computador {
+  right: -180px;
+}
+
+.experiencia li {
+  position: relative;
+}
+.experiencia ul ::before {
+  content: ">";
+  font-size: 1.5rem;
+  font-weight: 600;
+  position: absolute;
+  left: -6px;
+  color: #f57730;
+}
